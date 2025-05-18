@@ -1,0 +1,18 @@
+{
+	"openapi": "3.0.0",
+	"info": {
+		"version": "v0.0.1",
+		"title": "Docs API service- Test",
+		"description": "Docs API service- Test"
+	},
+	"servers": [
+		{
+			"url": "http://localhost:9852/api",
+			"description": "Local server"
+		},
+		{
+			"url": "https://service--service-test.vercel.app/",
+			"description": "Development server"
+		}
+	]
+}
