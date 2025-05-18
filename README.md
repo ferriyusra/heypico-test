@@ -10,7 +10,7 @@ We Give the prompt like in the picture and the response given the format name,lo
 
 ### API Docs
 
-- API Docs : TODO
+- API Docs : https://warped-crater-151819.postman.co/workspace/Mini-Project-Test~5d21889d-5885-464c-abbc-2b2cbcf72784/collection/10049993-85c1c0ca-4167-432a-ab37-544e6963d0d9?action=share&creator=10049993
 
 ### Branch Rule
 
