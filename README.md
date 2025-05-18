@@ -10,7 +10,7 @@ We Give the prompt like in the picture and the response given the format name,lo
 
 ### API Docs
 
-- API Docs : https://warped-crater-151819.postman.co/workspace/Mini-Project-Test~5d21889d-5885-464c-abbc-2b2cbcf72784/collection/10049993-85c1c0ca-4167-432a-ab37-544e6963d0d9?action=share&creator=10049993
+- API Docs : [https://warped-crater-151819.postman.co/workspace/Mini-Project-Test~5d21889d-5885-464c-abbc-2b2cbcf72784/collection/10049993-85c1c0ca-4167-432a-ab37-544e6963d0d9?action=share&creator=10049993](https://www.postman.com/warped-crater-151819/workspace/heypico-test/collection/10049993-d87c8b0f-09f0-48f3-a928-2c8edd7e38ba?action=share&creator=10049993)
 
 ### Branch Rule
 
