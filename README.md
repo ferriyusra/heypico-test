@@ -1,5 +1,13 @@
 ### Result
 
+We Give the prompt like in the picture and the response given the format name,location,link and iframe if found.
+
+![image](https://github.com/user-attachments/assets/5624eaaf-0f37-43b9-84fa-01ea0748d8c5)
+
+![image](https://github.com/user-attachments/assets/1b799cc0-dc38-43c3-b8cd-b18c6e6b36fe)
+
+
+
 ### API Docs
 
 - API Docs : TODO
